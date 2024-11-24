@@ -1,0 +1,5 @@
+// Inclui o arquivo de conexão
+// require_once 'conexao/conn.php';
+
+// Validar se o GET existe
+// if (isset($_GET['----']))
